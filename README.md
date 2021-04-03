@@ -20,7 +20,6 @@
 
 ### 🔭 I’m currently working on React implementation of the Game of Thrones character search engine
 ### 🌱 And yes, I am currently learning React
-### 🤔 I need help with work and mentoring
 ### 📫 Mail me: xbultazar@gmail.com
 
 <!--

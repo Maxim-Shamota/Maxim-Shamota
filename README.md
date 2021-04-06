@@ -4,7 +4,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JAVASCRIPT)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
 ![jQuery](https://img.shields.io/badge/-jQuery-090909?style=for-the-badge&logo=jQuery)
@@ -17,6 +16,8 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
 ![Babel](https://img.shields.io/badge/-Babel-090909?style=for-the-badge&logo=Babel)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![Redux](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=Redux)
 
 ### 🔭 I’am currently working on an implementation in a React social network
 ### 🌱 And yes, I am currently learning React

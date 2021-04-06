@@ -18,7 +18,7 @@
 ![Babel](https://img.shields.io/badge/-Babel-090909?style=for-the-badge&logo=Babel)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 
-### 🔭 I’m currently working on React implementation of the Game of Thrones character search engine
+### 🔭 I’am currently working on an implementation in a React social network
 ### 🌱 And yes, I am currently learning React
 ### 📫 Mail me: xbultazar@gmail.com
 

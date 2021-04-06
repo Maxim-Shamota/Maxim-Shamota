@@ -17,7 +17,7 @@
 ![Babel](https://img.shields.io/badge/-Babel-090909?style=for-the-badge&logo=Babel)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=Redux)
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 
 ### 🔭 I’am currently working on an implementation in a React social network
 ### 🌱 And yes, I am currently learning React

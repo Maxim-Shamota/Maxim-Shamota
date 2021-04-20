@@ -4,7 +4,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JAVASCRIPT)
-
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
 ![Ajax](https://img.shields.io/badge/-Ajax-090909?style=for-the-badge&logo=Ajax)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)

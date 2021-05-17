@@ -14,9 +14,6 @@
 ![LESS](https://img.shields.io/badge/-LESS-090909?style=for-the-badge&logo=LESS)
 
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
-![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack)
-![Babel](https://img.shields.io/badge/-Babel-090909?style=for-the-badge&logo=Babel)
-
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 

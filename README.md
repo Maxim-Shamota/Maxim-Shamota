@@ -1,5 +1,6 @@
 #  🤝 Hi, my name is **Maxim Shamota**
 ## I`m a beginner *Front-end developer* from Moscow
+
 #### My Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
@@ -16,6 +17,8 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 
+### Check my sites: 
+### [Adventure](http://adventure.shamota.site/)
 
 ### 🌱 And yes, I am currently learning React now
 ### 📫 Mail me: xbultazar@gmail.com

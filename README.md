@@ -18,8 +18,9 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 
 ### Check my sites: 
-### [Adventure](http://adventure.shamota.site/)     [Uber](http://uber.shamota.site/)
+### [Adventure](http://adventure.shamota.site/) 
 ### [Puls](http://puls.shamota.site/)
+### [Uber](http://uber.shamota.site/)
 
 ### 🌱 And yes, I am currently learning React now
 ### 📫 Mail me: xbultazar@gmail.com

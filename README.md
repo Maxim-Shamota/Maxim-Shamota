@@ -16,7 +16,7 @@
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 
-### 🔭 I’am currently working on an implementation in React the social network
+
 ### 🌱 And yes, I am currently learning React
 ### 📫 Mail me: xbultazar@gmail.com
 
@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 - 📫 Mail me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ### 🔭 I’am currently working on an implementation in React the social network
 -->

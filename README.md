@@ -1,6 +1,7 @@
 #  🤝 Hi, my name is **Maxim Shamota**
 ## I`m a beginner *Front-end developer* from Moscow
 
+
 #### My Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)

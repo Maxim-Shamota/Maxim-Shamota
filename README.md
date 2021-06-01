@@ -16,7 +16,7 @@
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
-###
+* * * * *
 ### Check my last sites: 
 ### [Adventure](http://adventure.shamota.site/) 
 ### [Games of Thrones (React + Redux)](http://got.shamota.site) 

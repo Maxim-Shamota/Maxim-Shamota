@@ -18,13 +18,13 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 * * * * *
 ### Check my last sites: 
-### [Adventure](http://adventure.shamota.site/) 
-### [Games of Thrones (React + Redux)](http://got.shamota.site) 
-### [E-numerator (React + Redux)](http://enumerator.shamota.site/) 
-### [Puls](http://puls.shamota.site/)
-### [Uber](http://uber.shamota.site/)
-### [Food](http://food.shamota.site/)
-### [PopArt](http://popart.shamota.site/)
+### [Adventure](https://adventure.shamota.site/) 
+### [Games of Thrones (React + Redux)](https://got.shamota.site) 
+### [E-numerator (React + Redux)](https://enumerator.shamota.site/) 
+### [Puls](https://puls.shamota.site/)
+### [Uber](https://uber.shamota.site/)
+### [Food](https://food.shamota.site/)
+### [PopArt](https://popart.shamota.site/)
 ***
 ### 🌱 And yes, I am currently learning React now
 ### 📫 Mail me: xbultazar@gmail.com

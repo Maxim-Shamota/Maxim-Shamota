@@ -18,6 +18,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 * * * * *
 ### Check my sites: 
+
 <br>
 - sites on React:
 ### [Games of Thrones (React + Redux)](https://got.shamota.site) 
@@ -32,6 +33,7 @@
 ***
 ### 🌱 And yes, I am currently learning React now
 <br>
+
 ### 📫 Mail me: xbultazar@gmail.com
 
 <!--

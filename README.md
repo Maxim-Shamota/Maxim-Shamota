@@ -19,7 +19,6 @@
 * * * * *
 ### Check my sites: 
 <br>
-
 - sites on React:
 ### [Games of Thrones (React + Redux)](https://got.shamota.site) 
 ### [E-numerator (React + Redux)](https://enumerator.shamota.site/) 
@@ -32,8 +31,7 @@
 ### [PopArt](https://popart.shamota.site/)
 ***
 ### 🌱 And yes, I am currently learning React now
-
-
+<br>
 ### 📫 Mail me: xbultazar@gmail.com
 
 <!--

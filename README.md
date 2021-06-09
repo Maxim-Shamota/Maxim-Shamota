@@ -1,4 +1,5 @@
 #  🤝 Hi, my name is **Maxim Shamota**
+***
 ## I`m a beginner *Front-end developer* from Moscow
 ***
 #### My Languages and Technologies

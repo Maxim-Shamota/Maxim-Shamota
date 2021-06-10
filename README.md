@@ -21,6 +21,15 @@
 ### Check my sites: 
 <br>
 
+### [Apart Mebel](https://apart-mebel.shamota.site/)  - обычно я не выкладываю свои проекты, которые находятся в работе. Этот составляет исключение.
+Начал делать этот сайт на ванили. 
+Далее планирую перенести его в React.
+И напоследок - реализовать его в Native.
+Хочу уложиться в календарный месяц. Учитывая отсутствие вообще любых исходников - неплохая задача.
++ Хочу реализовать анимацию по максимуму
+
+<br>
+
 - sites on React:
 ### [Games of Thrones (React + Redux)](https://got.shamota.site) 
 ### [E-numerator (React + Redux)](https://enumerator.shamota.site/) 

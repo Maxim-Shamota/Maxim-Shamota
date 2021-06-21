@@ -34,7 +34,7 @@
 
 - sites on React:
 ### [Games of Thrones (React + Redux)](https://got.shamota.site) 
-### [E-numerator (React + Redux)](https://enumerator.shamota.site/) 
+
 
 - old sites:
 ### [Adventure](https://adventure.shamota.site/) 
@@ -62,4 +62,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ### 🔭 I’am currently working on an implementation in React the social network
+- ### [E-numerator (React + Redux)](https://enumerator.shamota.site/) 
 -->

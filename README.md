@@ -38,6 +38,8 @@
 
 
 - old sites:
+### [Currency exchange](https://currency-exchange.shamota.site/) 
+### [ЖК Сказочный лес](https://ndv.shamota.site/)  -  тестовое задание
 ### [Adventure](https://adventure.shamota.site/) 
 ### [Puls](https://puls.shamota.site/)
 ### [Uber](https://uber.shamota.site/)

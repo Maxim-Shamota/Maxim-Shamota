@@ -36,11 +36,16 @@
 - sites on React:
 ### [Games of Thrones (React + Redux)](https://got.shamota.site) 
 
+***
 
-- old sites:
 ### [Currency exchange](https://currency-exchange.shamota.site/) 
 ### [ЖК Сказочный лес](https://ndv.shamota.site/)  -  тестовое задание
 ### [Adventure](https://adventure.shamota.site/)  -  реальный рабочий проект
+
+***
+
+- old sites:
+
 ### [Puls](https://puls.shamota.site/)
 ### [Uber](https://uber.shamota.site/)
 ### [Food](https://food.shamota.site/)

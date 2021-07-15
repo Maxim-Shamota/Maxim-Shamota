@@ -6,6 +6,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JAVASCRIPT)
+![PHP](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=PHP)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
@@ -27,7 +28,7 @@
 
 - Начал делать этот сайт на ванили. 
 
-Пока приостанавливаю работу над этим сайтом - навалилась работа и надо бек-энд делать(или будет очень сильное дублирование кода). Так что буду вспоминать Python или PHP.
+Пока приостанавливаю работу над этим сайтом - навалилась работа и надо бек-энд делать(или будет очень сильное дублирование кода). Так что иду вспоминать PHP.
 
 ***
 

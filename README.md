@@ -37,7 +37,8 @@
 
 ### [Currency exchange](https://currency-exchange.shamota.site/) 
 ### [Мир детства](https://childhood.shamota.site/)  - натяжка шаблона на WordPress
-### [ЖК Сказочный лес](https://ndv.shamota.site/)  
+### [Финакадемия](https://finakademiya.shamota.site/)  
+### [ЖК Сказочный лес](https://ndv.shamota.site/) 
 ### [Adventure](https://adventure.shamota.site/)  
 
 ***

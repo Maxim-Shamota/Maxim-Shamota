@@ -23,13 +23,6 @@
 
 ***
 
-### [Apart Mebel](https://apart-mebel.shamota.site/) 
-
-Проект заморожен
-
-***
-
-
 - sites on React:
 ### [Games of Thrones (React + Redux)](https://got.shamota.site) 
 
@@ -40,6 +33,12 @@
 ### [Финакадемия](https://finakademiya.shamota.site/)  
 ### [ЖК Сказочный лес](https://ndv.shamota.site/) 
 ### [Adventure](https://adventure.shamota.site/)  
+
+***
+
+### [Apart Mebel](https://apart-mebel.shamota.site/) 
+
+Проект заморожен
 
 ***
 

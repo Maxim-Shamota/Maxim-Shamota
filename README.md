@@ -28,17 +28,20 @@
 
 ***
 
+- current sites
+
+### [Funiro](https://funiro.shamota.site/) 
 ### [Currency exchange](https://currency-exchange.shamota.site/) 
 ### [Мир детства](https://childhood.shamota.site/)  - натяжка шаблона на WordPress
 ### [Финакадемия](https://finakademiya.shamota.site/)  
 ### [ЖК Сказочный лес](https://ndv.shamota.site/) 
 ### [Adventure](https://adventure.shamota.site/)  
 
-***
+<!-- ***
 
 ### [Apart Mebel](https://apart-mebel.shamota.site/) 
 
-Проект заморожен
+Проект заморожен -->
 
 ***
 
@@ -49,7 +52,7 @@
 ### [Food](https://food.shamota.site/)
 ### [PopArt](https://popart.shamota.site/)
 ***
-### 🌱 And yes, I am currently learning React now
+<!-- ### 🌱 And yes, I am currently learning React now -->
 <br>
 
 ### 📫 Mail me: xbultazar@gmail.com

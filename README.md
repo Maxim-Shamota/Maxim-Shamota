@@ -1,3 +1,4 @@
+<!--
 #  🤝 Hi, my name is **Maxim Shamota**
 ***
 ## I`m a beginner *Front-end developer* from Moscow
@@ -42,7 +43,7 @@
 ### [Apart Mebel](https://apart-mebel.shamota.site/) 
 
 Проект заморожен -->
-
+<!--
 ***
 
 - old sites:
@@ -53,9 +54,11 @@
 ### [PopArt](https://popart.shamota.site/)
 ***
 <!-- ### 🌱 And yes, I am currently learning React now -->
+<!--
 <br>
 
-### 📫 Mail me: xbultazar@gmail.com
+### 📫 Mail me: xbultazar@gmail.com 
+-->
 
 <!--
 **Maxim-Shamota/Maxim-Shamota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

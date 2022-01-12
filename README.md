@@ -1,5 +1,6 @@
-[JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA)
 <!--
+
+[JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA)
 #  🤝 Hi, my name is **Maxim Shamota**
 ***
 ## I`m a beginner *Front-end developer* from Moscow

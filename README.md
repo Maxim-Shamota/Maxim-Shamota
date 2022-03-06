@@ -2,16 +2,18 @@
 [JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA)
 #  🤝 Hi, my name is **Maxim Shamota**
 ***
-## I`m a *Developer* from Moscow
+## I`m a *FullStack Developer* from Moscow
 ***
 #### My Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JAVASCRIPT)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-the-badge&logo=TYPESCRIPT)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
+
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
 
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
@@ -19,10 +21,13 @@
 ![LESS](https://img.shields.io/badge/-LESS-090909?style=for-the-badge&logo=LESS)
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular)
 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring)
+![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate)
+
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 * * * * *
 ### Check my sites: 
 

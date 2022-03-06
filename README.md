@@ -2,7 +2,7 @@
 [JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA)
 #  🤝 Hi, my name is **Maxim Shamota**
 ***
-## I`m a *FullStack Developer* from Moscow
+## I`m a *Developer* from Moscow
 ***
 #### My Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)

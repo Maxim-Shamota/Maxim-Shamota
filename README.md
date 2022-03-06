@@ -31,21 +31,21 @@
 * * * * *
 ### Check my sites: 
 
-***
+<!-- ***
 
 - sites on React:
-### [Games of Thrones (React + Redux)](https://got.shamota.site) 
+### [Games of Thrones (React + Redux)](https://got.shamota.site)  -->
 
 ***
 
 - current sites
 
-### [Funiro](https://funiro.shamota.site/) 
+<!-- ### [Funiro](https://funiro.shamota.site/)  -->
 ### [Currency exchange](https://currency-exchange.shamota.site/) 
-### [Мир детства](https://childhood.shamota.site/)  - натяжка шаблона на WordPress
+<!-- ### [Мир детства](https://childhood.shamota.site/)  - натяжка шаблона на WordPress -->
 ### [Финакадемия](https://finakademiya.shamota.site/)  
 ### [ЖК Сказочный лес](https://ndv.shamota.site/) 
-### [Adventure](https://adventure.shamota.site/)  
+<!-- ### [Adventure](https://adventure.shamota.site/)   -->
 
 ***
 

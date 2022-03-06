@@ -2,7 +2,7 @@
 [JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA)
 #  🤝 Hi, my name is **Maxim Shamota**
 ***
-## I`m a beginner *Developer* from Moscow
+## I`m a *Developer* from Moscow
 ***
 #### My Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
@@ -20,6 +20,9 @@
 
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+
+![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
+![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring)
 * * * * *
 ### Check my sites: 
 

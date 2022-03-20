@@ -37,8 +37,7 @@
 
 ***
 
-- current sites
-
+### [Верстка сайта ZlatMax](https://zlatmax.shamota.site/)
 <!-- ### [Funiro](https://funiro.shamota.site/)  -->
 ### [Currency exchange](https://currency-exchange.shamota.site/) 
 <!-- ### [Мир детства](https://childhood.shamota.site/)  - натяжка шаблона на WordPress -->
@@ -47,10 +46,11 @@
 <!-- ### [Adventure](https://adventure.shamota.site/)   -->
 
 ***
+Проект заморожен
 
 ### [Apart Mebel](https://apart-mebel.shamota.site/) 
 
-Проект заморожен
+
 <!--
 ***
 

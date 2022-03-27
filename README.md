@@ -1,5 +1,5 @@
 
-[JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA)
+<!-- [JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA) -->
 #  🤝 Hi, my name is **Maxim Shamota**
 ***
 ## I`m a *Developer* from Moscow
@@ -37,6 +37,7 @@
 
 ***
 
+### [Верстка сайта WarPlayCloud](https://warplaycloud.shamota.site/)
 ### [Верстка сайта ZlatMax](https://zlatmax.shamota.site/)
 <!-- ### [Funiro](https://funiro.shamota.site/)  -->
 ### [Currency exchange](https://currency-exchange.shamota.site/) 
@@ -46,9 +47,9 @@
 <!-- ### [Adventure](https://adventure.shamota.site/)   -->
 
 ***
-Проект заморожен
+<!-- Проект заморожен
 
-### [Apart Mebel](https://apart-mebel.shamota.site/) 
+### [Apart Mebel](https://apart-mebel.shamota.site/)  -->
 
 
 <!--

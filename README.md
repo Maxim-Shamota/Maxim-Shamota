@@ -37,6 +37,7 @@
 
 ***
 
+### [Верстка сайта Meditation](https://meditation.shamota.site/)
 ### [Верстка сайта WarPlayCloud](https://warplaycloud.shamota.site/)
 ### [Верстка сайта ZlatMax](https://zlatmax.shamota.site/)
 <!-- ### [Funiro](https://funiro.shamota.site/)  -->

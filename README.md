@@ -2,7 +2,7 @@
 <!-- [JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA) -->
 #  🤝 Hi, my name is **Maxim Shamota**
 ***
-## I`m a *Developer* from Moscow
+## I`m a *Developer*
 
 ### I am currently looking for a job as a layout developer. Only remote
 ***

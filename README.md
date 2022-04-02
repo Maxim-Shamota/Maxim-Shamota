@@ -3,6 +3,8 @@
 #  🤝 Hi, my name is **Maxim Shamota**
 ***
 ## I`m a *Developer* from Moscow
+
+### I am currently looking for a job as a layout developer. Only remote
 ***
 #### My Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)

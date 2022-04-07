@@ -42,7 +42,7 @@
 ### [Верстка сайта Meditation](https://meditation.shamota.site/)
 ### [Верстка сайта WarPlayCloud](https://warplaycloud.shamota.site/)
 ### [Верстка сайта ZlatMax](https://zlatmax.shamota.site/)
-<!-- ### [Funiro](https://funiro.shamota.site/)  -->
+### [Верстка сайта Funiro](https://funiro.shamota.site/) 
 ### [Currency exchange](https://currency-exchange.shamota.site/) 
 <!-- ### [Мир детства](https://childhood.shamota.site/)  - натяжка шаблона на WordPress -->
 <!-- ### [Финакадемия](https://finakademiya.shamota.site/)   -->

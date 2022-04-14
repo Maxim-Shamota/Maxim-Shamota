@@ -43,7 +43,7 @@
 ### [Верстка сайта WarPlayCloud](https://warplaycloud.shamota.site/)
 ### [Верстка сайта ZlatMax](https://zlatmax.shamota.site/)
 ### [Верстка сайта Funiro](https://funiro.shamota.site/) 
-### [Currency exchange](https://currency-exchange.shamota.site/) 
+<!-- ### [Currency exchange](https://currency-exchange.shamota.site/)  -->
 <!-- ### [Мир детства](https://childhood.shamota.site/)  - натяжка шаблона на WordPress -->
 <!-- ### [Финакадемия](https://finakademiya.shamota.site/)   -->
 <!-- ### [ЖК Сказочный лес](https://ndv.shamota.site/)  -->

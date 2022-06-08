@@ -40,11 +40,13 @@
 
 ***
 
+### [Верстка сайта, написание скриптов для отеля Wonder life](https://wonderlife.shamota.site/#tur)
+### [Дизайн, верстка, написание скриптов и отправка форм для сайта bob-master](https://bob.shamota.site/) 
 ### [Верстка сайта Meditation](https://meditation.shamota.site/)
 ### [Верстка сайта WarPlayCloud](https://warplaycloud.shamota.site/)
 ### [Верстка сайта ZlatMax](https://zlatmax.shamota.site/)
 ### [Верстка сайта Funiro](https://funiro.shamota.site/) 
-<!-- ### [Currency exchange](https://currency-exchange.shamota.site/)  -->
+### [Currency exchange](https://currency-exchange.shamota.site/) 
 <!-- ### [Мир детства](https://childhood.shamota.site/)  - натяжка шаблона на WordPress -->
 <!-- ### [Финакадемия](https://finakademiya.shamota.site/)   -->
 <!-- ### [ЖК Сказочный лес](https://ndv.shamota.site/)  -->

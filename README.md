@@ -40,8 +40,8 @@
 
 ***
 
-### [Верстка сайта, написание скриптов для отеля Wonder life](https://wonderlife.shamota.site/#tur)
-### [Дизайн, верстка, написание скриптов и отправка форм для сайта bob-master](https://bob.shamota.site/) 
+### [Верстка, написание скриптов для мультиязычного сайта отеля Wonder life](https://wonderlife.shamota.site/#tur)
+### [Дизайн, верстка, написание скриптов и отправка форм в телеграм для сайта bob-master](https://bob.shamota.site/) 
 ### [Верстка сайта Meditation](https://meditation.shamota.site/)
 ### [Верстка сайта WarPlayCloud](https://warplaycloud.shamota.site/)
 ### [Верстка сайта ZlatMax](https://zlatmax.shamota.site/)

@@ -12,9 +12,6 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JAVASCRIPT)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 
-![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
-
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
 ![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=WebPack)
 
@@ -24,10 +21,14 @@
 
 <!-- ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) -->
 ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-the-badge&logo=TYPESCRIPT)
 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring)
 ![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate)
+
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
 * * * * *

@@ -10,7 +10,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JAVASCRIPT)
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
+<!-- ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP) -->
 
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
 ![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=WebPack)
@@ -41,12 +41,12 @@
 
 ***
 
-### [Верстка, написание скриптов для мультиязычного сайта отеля Wonder life](https://wonderlife.shamota.site/#tur)
 ### [Дизайн, верстка, написание скриптов и отправка форм в телеграм для сайта bob-master](https://bob.shamota.site/) 
 ### [Верстка сайта Meditation](https://meditation.shamota.site/)
 ### [Верстка сайта WarPlayCloud](https://warplaycloud.shamota.site/)
 ### [Верстка сайта ZlatMax](https://zlatmax.shamota.site/)
 ### [Верстка сайта Funiro](https://funiro.shamota.site/) 
+### [Верстка, написание скриптов для мультиязычного сайта отеля Wonder life](https://wonderlife.shamota.site/#tur)
 ### [Currency exchange](https://currency-exchange.shamota.site/) 
 <!-- ### [Мир детства](https://childhood.shamota.site/)  - натяжка шаблона на WordPress -->
 <!-- ### [Финакадемия](https://finakademiya.shamota.site/)   -->

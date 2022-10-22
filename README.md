@@ -4,7 +4,7 @@
 ***
 ## I`m a *Developer*
 
-### I am currently looking for a job as a layout developer. Only remote
+### I am currently looking for a job. Only remote
 ***
 #### My Languages and Technologies
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)

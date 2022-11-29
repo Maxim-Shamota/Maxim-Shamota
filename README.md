@@ -19,9 +19,9 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS)
 ![LESS](https://img.shields.io/badge/-LESS-090909?style=for-the-badge&logo=LESS)
 
-<!-- ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) -->
+<!-- ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) 
 ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular)
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-the-badge&logo=TYPESCRIPT)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-the-badge&logo=TYPESCRIPT) -->
 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring)

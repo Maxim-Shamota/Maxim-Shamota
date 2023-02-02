@@ -41,13 +41,13 @@
 
 ***
 
-### [Дизайн, верстка, написание скриптов и отправка форм в телеграм для сайта bob-master](https://bob.shamota.site/) 
-### [Верстка сайта Meditation](https://meditation.shamota.site/)
-### [Верстка сайта WarPlayCloud](https://warplaycloud.shamota.site/)
-### [Верстка сайта ZlatMax](https://zlatmax.shamota.site/)
-### [Верстка сайта Funiro](https://funiro.shamota.site/) 
-### [Верстка, написание скриптов для мультиязычного сайта отеля Wonder life](https://wonderlife.shamota.site/#tur)
+### [Design, layout, administration](https://bob-master.ru/) 
+### [Website layout Meditation](https://meditation.shamota.site/)
+### [WarPlayCloud site layout](https://warplaycloud.shamota.site/)
+### [Website layout ZlatMax](https://zlatmax.shamota.site/)
+### [Funiro site layout](https://funiro.shamota.site/) 
 ### [Currency exchange](https://currency-exchange.shamota.site/) 
+<!-- ### [Верстка, написание скриптов для мультиязычного сайта отеля Wonder life](https://wonderlife.shamota.site/#tur) -->
 <!-- ### [Мир детства](https://childhood.shamota.site/)  - натяжка шаблона на WordPress -->
 <!-- ### [Финакадемия](https://finakademiya.shamota.site/)   -->
 <!-- ### [ЖК Сказочный лес](https://ndv.shamota.site/)  -->

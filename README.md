@@ -10,18 +10,15 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JAVASCRIPT)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-the-badge&logo=TYPESCRIPT)
 <!-- ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP) -->
-
-![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=Gulp)
-![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=WebPack)
 
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS)
 ![LESS](https://img.shields.io/badge/-LESS-090909?style=for-the-badge&logo=LESS)
 
-<!-- ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) 
-![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular)
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-the-badge&logo=TYPESCRIPT) -->
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) 
+![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
 
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
 ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring)

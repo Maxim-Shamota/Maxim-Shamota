@@ -31,11 +31,6 @@
 * * * * *
 ### Check my sites: 
 
-<!-- ***
-
-- sites on React:
-### [Games of Thrones (React + Redux)](https://got.shamota.site)  -->
-
 ***
 
 ### [Design, layout, administration](https://bob-master.ru/) 
@@ -49,6 +44,11 @@
 <!-- ### [Финакадемия](https://finakademiya.shamota.site/)   -->
 <!-- ### [ЖК Сказочный лес](https://ndv.shamota.site/)  -->
 <!-- ### [Adventure](https://adventure.shamota.site/)   -->
+
+***
+
+on React:
+### [MARVEL](http://marvel.shamota.site)
 
 ***
 

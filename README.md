@@ -28,33 +28,34 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
 
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-* * * * *
+<!--
+!* * * * *
 ### Check my sites: 
 
-***
+!***
 
 ### [Design, layout, administration](https://bob-master.ru/) 
 ### [Website layout Meditation](https://meditation.shamota.site/)
 ### [WarPlayCloud site layout](https://warplaycloud.shamota.site/)
 ### [Website layout ZlatMax](https://zlatmax.shamota.site/)
 ### [Funiro site layout](https://funiro.shamota.site/) 
-### [Currency exchange](https://currency-exchange.shamota.site/) 
+### [Currency exchange](https://currency-exchange.shamota.site/) -->
 <!-- ### [Верстка, написание скриптов для мультиязычного сайта отеля Wonder life](https://wonderlife.shamota.site/#tur) -->
 <!-- ### [Мир детства](https://childhood.shamota.site/)  - натяжка шаблона на WordPress -->
 <!-- ### [Финакадемия](https://finakademiya.shamota.site/)   -->
 <!-- ### [ЖК Сказочный лес](https://ndv.shamota.site/)  -->
-<!-- ### [Adventure](https://adventure.shamota.site/)   -->
+<!-- ### [Adventure](https://adventure.shamota.site/)   
 
-***
+!***
 
-on React:
-### [MARVEL](http://marvel.shamota.site)
+!on React:
+!### [MARVEL](http://marvel.shamota.site) 
 
-***
+!***
 
 ![Maxim-Shamota's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim-Shamota&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)
 
-***
+!***
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Shamota&hide=php,css&layout=compact)
 
@@ -72,7 +73,8 @@ on React:
 ### [Uber](https://uber.shamota.site/)
 ### [Food](https://food.shamota.site/)
 ### [PopArt](https://popart.shamota.site/)
-***
+*** 
+-->
 <!-- ### 🌱 And yes, I am currently learning React now -->
 <!--
 <br>

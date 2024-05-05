@@ -1,6 +1,6 @@
 
 <!-- [JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA) -->
-#  🤝 Hi, my name is **Maxim Shamota**
+#  🤝 Hi, my name is **Maksim Shamota**
 ***
 ## I`m a *Developer*
 

@@ -1,100 +1,31 @@
+# Максим Шамота
 
-<!-- [JAVA](https://img.shields.io/badge/-JAVA-090909?style=for-the-badge&logo=JAVA) -->
-#  🤝 Hi, my name is **Maksim Shamota**
-***
-## I`m a *Developer*
+**Full-stack разработчик.** Больше 10 лет в разработке. Делаю продукт целиком — мобильное приложение, серверная часть, сайт, автоматизация на нейросетях: от архитектуры до сервера и поддержки после запуска.
 
-### I am currently looking for a job.
-***
-#### My Languages and Technologies
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-the-badge&logo=JAVASCRIPT)
-![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-the-badge&logo=TYPESCRIPT)
-<!-- ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP) -->
+🌐 **[terra-ai.pro](https://terra-ai.pro/)** — сайт, работы и контакты
 
-![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS)
-![LESS](https://img.shields.io/badge/-LESS-090909?style=for-the-badge&logo=LESS)
+---
 
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React) 
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux)
+### Чем занимаюсь
 
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java)
-![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring)
-![Hibernate](https://img.shields.io/badge/-Hibernate-090909?style=for-the-badge&logo=Hibernate)
+- **Мобильные приложения** — React Native + Expo, обе платформы, публикация в сторах, обновления без переустановки
+- **Backend** — Python, FastAPI, PostgreSQL, Redis, Docker; до этого Java и Spring
+- **ИИ-автоматизация** — помощники на Claude API и OpenAI API, поиск по своей базе знаний, боты в Telegram, обработка голоса и документов
+- **Сайты и интернет-магазины** — каталоги с расчётом цены, лендинги, админки, поддержка и поисковое продвижение
+- **Преподаю** — школа «ИИ-секретарь: второй мозг своими руками» и модуль по ИИ-агентам в программе дополнительного образования
 
-![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=PostgreSQL)
+### Свой продукт
 
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
-<!--
-!* * * * *
-### Check my sites: 
+**Точка баланса** — платформа для фитнес-тренеров: тренер ведёт клиентов, программы и питание, клиент отмечает тренировки. Три языка, обе платформы.
 
-!***
+[App Store](https://apps.apple.com/app/id6778734916) · [Android](https://www.rustore.ru/catalog/app/com.fitapp.mobile)
 
-### [Design, layout, administration](https://bob-master.ru/) 
-### [Website layout Meditation](https://meditation.shamota.site/)
-### [WarPlayCloud site layout](https://warplaycloud.shamota.site/)
-### [Website layout ZlatMax](https://zlatmax.shamota.site/)
-### [Funiro site layout](https://funiro.shamota.site/) 
-### [Currency exchange](https://currency-exchange.shamota.site/) -->
-<!-- ### [Верстка, написание скриптов для мультиязычного сайта отеля Wonder life](https://wonderlife.shamota.site/#tur) -->
-<!-- ### [Мир детства](https://childhood.shamota.site/)  - натяжка шаблона на WordPress -->
-<!-- ### [Финакадемия](https://finakademiya.shamota.site/)   -->
-<!-- ### [ЖК Сказочный лес](https://ndv.shamota.site/)  -->
-<!-- ### [Adventure](https://adventure.shamota.site/)   
+### Остальные работы
 
-!***
+Клиентские проекты не выкладываю публично — суть задач, сроки и цифры собраны на [terra-ai.pro/projects](https://terra-ai.pro/projects/). Живые ссылки и админки показываю в разговоре.
 
-!on React:
-!### [MARVEL](http://marvel.shamota.site) 
+---
 
-!***
+![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Shamota&hide=php,css&layout=compact&theme=tokyonight)
 
-![Maxim-Shamota's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maxim-Shamota&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)
-
-!***
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Shamota&hide=php,css&layout=compact)
-
-<!-- Проект заморожен
-
-### [Apart Mebel](https://apart-mebel.shamota.site/)  -->
-
-
-<!--
-***
-
-- old sites:
-
-### [Puls](https://puls.shamota.site/)
-### [Uber](https://uber.shamota.site/)
-### [Food](https://food.shamota.site/)
-### [PopArt](https://popart.shamota.site/)
-*** 
--->
-<!-- ### 🌱 And yes, I am currently learning React now -->
-<!--
-<br>
-
-### 📫 Mail me: xbultazar@gmail.com 
--->
-
-<!--
-**Maxim-Shamota/Maxim-Shamota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Mail me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ### 🔭 I’am currently working on an implementation in React the social network
-- ### [E-numerator (React + Redux)](https://enumerator.shamota.site/) 
--->
+**Maksim Shamota** — full-stack developer: mobile apps, backend and AI automation. One person for the whole cycle, from architecture to the server. Portfolio and contacts: [terra-ai.pro](https://terra-ai.pro/).
